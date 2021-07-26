@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+//this program for regular expression
 public class Javapractic {
 public static void main(String []args) {
 Pattern p = Pattern.compile("/s",Pattern.CASE_INSENSITIVE);
