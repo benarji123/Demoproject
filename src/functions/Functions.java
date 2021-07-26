@@ -7,6 +7,7 @@ public class Functions {
 	String age="27";
 	//this is for functions
 	//this is new comment
+	//this is third comment
 	public static void main(String args[]) {
 		int[] r= {1,3,5,7,9,04};
 		Functions obj=new Functions();
